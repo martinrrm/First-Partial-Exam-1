@@ -1,8 +1,8 @@
-git init
-git add .
-git commit -m "Init"
-touch README.md
-git add .
-git commit -m "Readme"
-git remote add origin url
-git push
+<ul>
+  <li>git init</li> 
+  <li>touch README.md</li>
+  <li>git add .</li>
+  <li>git commit -m "Exam"</li>
+  <li>git remote add origin url</li>
+  <li>git push</li>
+</ul
